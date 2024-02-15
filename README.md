@@ -19,5 +19,8 @@ git push --set-upstream origin feature  --here origin is remote server  ..featur
 Now , edit the README.md file for tesing pupose from github ie remote repo.Once changes are committed via GUI ,now your remote repo is ahead of local. so, do a git pull from local to keep it upto date.
 If you want to merge the changes of feaure branch to main branch , we can still do it via GUI.and delete the feature branch.
 
+15thFeb-2024:
+Added new line to check pull request with reviewer approval process
+
 
 
